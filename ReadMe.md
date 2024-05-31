@@ -28,7 +28,3 @@ Here is a screenshot of the Twitter Tweet UI:
 
 ## Usage
 Open the index.html file in your preferred web browser to view the UI.
-
-## Contributing
-
-
